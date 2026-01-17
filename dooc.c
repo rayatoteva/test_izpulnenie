@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    printf("The old book lay on the table.
+Its pages were yellowed and torn.
+A map fell out as it was opened.
+Where could it lead?  ");
+return 0;
+}
